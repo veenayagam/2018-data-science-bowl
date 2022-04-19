@@ -1,4 +1,4 @@
-# 2018 Data Science Bowl - Detecting Cell Neuclei using U-Net Semantic Segmentation
+# 2018 Data Science Bowl - Detecting Cell Nuclei using U-Net Semantic Segmentation
 
 ## 1. Summary
 2018 Data Science bowl challenge to identify cell nuclei in images for medical research
