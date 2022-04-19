@@ -30,11 +30,15 @@ The structure of the model is shown in the diagram below.
 The model is trained with a batch size of 25 and for 10 epochs. Early stopping is also applied in the model training. 
 The training accuracy achieved 96% and the validation accuracy of 93%. The two figures below show the graph of the training process.
 
-![Loss Graph](img/training_vs_validation_loss.png) ![Accuracy Graph](img/training_vs_validation_accuracy.png)
+![Loss Graph](img/epoch_loss.png) ![Accuracy Graph](img/epoch_accuracy.png)
 
 ## 4. Results
 Upon evaluating the model with test data, the model obtains the following test results, as shown in the figure below.
 
 ![Test Result](img/test_result.png)
 
-The model also makes certain predictions based on some of the test data. Figures following show the actual output masks and predicted masks.
+The model also makes certain predictions based on some of the test data. The figures following show the actual output masks and predicted masks.
+
+![Test 1](img/test_1.png)
+![Test 2](img/test_2.png)
+![Test 3](img/test_3.png)
